@@ -1,0 +1,14 @@
+F:\project\OAuth2\webAPi\bin\Debug\netcoreapp2.2\webAPi.deps.json
+F:\project\OAuth2\webAPi\bin\Debug\netcoreapp2.2\webAPi.runtimeconfig.json
+F:\project\OAuth2\webAPi\bin\Debug\netcoreapp2.2\webAPi.runtimeconfig.dev.json
+F:\project\OAuth2\webAPi\bin\Debug\netcoreapp2.2\webAPi.dll
+F:\project\OAuth2\webAPi\bin\Debug\netcoreapp2.2\webAPi.pdb
+F:\project\OAuth2\webAPi\obj\Debug\netcoreapp2.2\webAPi.csproj.CoreCompileInputs.cache
+F:\project\OAuth2\webAPi\obj\Debug\netcoreapp2.2\webAPi.RazorAssemblyInfo.cache
+F:\project\OAuth2\webAPi\obj\Debug\netcoreapp2.2\webAPi.RazorAssemblyInfo.cs
+F:\project\OAuth2\webAPi\obj\Debug\netcoreapp2.2\webAPi.AssemblyInfoInputs.cache
+F:\project\OAuth2\webAPi\obj\Debug\netcoreapp2.2\webAPi.AssemblyInfo.cs
+F:\project\OAuth2\webAPi\obj\Debug\netcoreapp2.2\webAPi.RazorTargetAssemblyInfo.cache
+F:\project\OAuth2\webAPi\obj\Debug\netcoreapp2.2\webAPi.dll
+F:\project\OAuth2\webAPi\obj\Debug\netcoreapp2.2\webAPi.pdb
+F:\project\OAuth2\webAPi\obj\Debug\netcoreapp2.2\webAPi.csprojAssemblyReference.cache
